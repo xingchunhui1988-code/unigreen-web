@@ -1,0 +1,15 @@
+# Robots.txt for UniGreen
+# https://unigreen.sg
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://unigreen.sg/sitemap.xml
+
+# Crawl-delay (optional, for polite crawling)
+Crawl-delay: 1
+
+# Disallow admin or private paths (if any)
+# Disallow: /admin/
+# Disallow: /api/

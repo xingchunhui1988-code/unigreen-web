@@ -1,0 +1,21 @@
+{
+  "name": "UniGreen - Marine Hydroponics Technology",
+  "short_name": "UniGreen",
+  "description": "Smart onboard hydroponic solutions for ocean vessels - Fresh vegetables at sea",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e3a5f",
+  "theme_color": "#4a9b8f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/unigreen-logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "technology", "agriculture"],
+  "lang": "en",
+  "dir": "ltr"
+}
